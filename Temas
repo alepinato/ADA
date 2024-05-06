@@ -11,7 +11,19 @@ b) Etapas para el desarrollo de sistemas Informáticos
     i) Especificación de requerimientos
     ii) Análisis
     iii) Diseño juan solis
-    iv) Codificación juan souza
+    iv) Codificación juan souza La codificación es el proceso de convertir información de un formato a otro, generalmente para facilitar su almacenamiento, procesamiento o transmisión. En el contexto de la informática, la codificación puede referirse a la conversión de datos de un formato de texto a otro, como de ASCII a UTF-8, o puede referirse a la codificación de datos en un formato específico para su transmisión o almacenamiento, como la codificación de datos binarios en el formato Base64 para su transmisión a través de protocolos de comunicación que no admiten caracteres especiales.
+
+	Codificación de texto: En el contexto de la informática, el texto se representa internamente como secuencias de números. Los estándares de codificación, como ASCII (American Standard Code for Information Interchange) y UTF-8 (Unicode Transformation Format - 8 bits), asignan números a caracteres específicos. Por ejemplo, en ASCII, el carácter 'A' se representa con el número 65. UTF-8 es una codificación más avanzada que puede representar una amplia gama de caracteres de diferentes idiomas y símbolos, lo que la hace más versátil que ASCII.
+
+    Codificación de datos binarios: Además de codificar texto, la informática también trata con datos binarios, que son secuencias de 0s y 1s. A veces es necesario codificar estos datos binarios en formatos legibles por humanos o más seguros para su transmisión. Un ejemplo común es la codificación Base64, que convierte datos binarios en una cadena de caracteres ASCII legibles.
+
+	Transmisión y almacenamiento de datos codificados: En redes informáticas, los datos a menudo se transmiten en formatos codificados para garantizar la integridad de la información y su correcta interpretación por parte de los dispositivos receptores. Por ejemplo, los archivos multimedia pueden codificarse en formatos como MP3 o JPEG para su almacenamiento eficiente. Además, al enviar datos a través de Internet, se pueden codificar utilizando protocolos como HTTP o FTP para garantizar que los datos lleguen correctamente y puedan ser interpretados por los navegadores web u otros dispositivos.
+
+	Seguridad y criptografía: La codificación también juega un papel importante en la seguridad de la información. La criptografía utiliza técnicas de codificación para proteger los datos mediante la aplicación de algoritmos matemáticos que hacen que la información sea ilegible para cualquier persona que no tenga la clave adecuada para descifrarla.
+
+	ASCII (American Standard Code for Information Interchange) es un conjunto de caracteres y un estándar de codificación de caracteres de 7 bits que asigna un número único a cada símbolo, incluyendo letras mayúsculas y minúsculas, números, signos de puntuación y caracteres especiales como tabulaciones y saltos de línea. Originalmente desarrollado para la comunicación de datos entre dispositivos de telecomunicaciones en América del Norte, el conjunto ASCII ha sido ampliamente adoptado como estándar mundial y es el fundamento de muchos otros conjuntos de caracteres, incluyendo Unicode.
+
+	UTF-8 (Unicode Transformation Format - 8 bits) es una codificación de caracteres Unicode que utiliza de 1 a 4 bytes para representar cada carácter. A diferencia de ASCII, que es de longitud fija de 7 bits por carácter, UTF-8 es variable en longitud, lo que significa que puede representar un rango mucho más amplio de caracteres, incluidos aquellos de idiomas no latinos y símbolos especiales. UTF-8 es compatible con ASCII, lo que significa que los caracteres ASCII se representan exactamente igual en UTF-8, lo que permite una transición suave entre los dos estándares.
     v) Prueba
     vi) Mantenimiento y actualización Benja
 c) Concepto de calidad.
