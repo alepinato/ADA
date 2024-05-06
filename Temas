@@ -1,5 +1,11 @@
 a) Ingeniería de software
     i) Principios, Introducción, Análisis y Diseño de Sistemas. darwin 
+Los principios de diseño, que abarcan desde la modularidad hasta la encapsulación, guían el desarrollo de sistemas de software sólidos. 
+Comenzando con la etapa de introducción, se establece el contexto y se definen los objetivos, necesidades y limitaciones del sistema.
+Luego, en la fase de análisis, se comprenden a fondo los requisitos funcionales y no funcionales, así como las interacciones entre los componentes.
+En el diseño, estos requisitos se traducen en una arquitectura técnica detallada, con modelos como diagramas de clases y secuencia,
+considerando aspectos de rendimiento, seguridad y escalabilidad. Este proceso crea una base sólida para la implementación del sistema,
+garantizando su robustez, mantenibilidad y escalabilidad.
     ii) Objetivos del Análisis y el Diseño - Sofia
     iii) Identificación de Necesidades
     
